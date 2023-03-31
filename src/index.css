@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  @apply bg-gradient-sky-blue;
+  @apply text-gray-50;
+  @apply font-alkatra;
+  @apply min-h-screen;
+}
